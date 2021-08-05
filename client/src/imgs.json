@@ -1,0 +1,6 @@
+{
+  "black": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' stroke='gray' fill='black'/%3E%3C/svg%3E",
+  "black_queen": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' stroke='gray' fill='black'/%3E%3Ccircle cx='50' cy='50' r='20' stroke='gray' fill='yellow'/%3E%3C/svg%3E",
+  "white": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' stroke='gray' fill='white'/%3E%3C/svg%3E",
+  "white_queen": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='40' stroke='gray' fill='white'/%3E%3Ccircle cx='50' cy='50' r='20' stroke='gray' fill='yellow'/%3E%3C/svg%3E"
+}

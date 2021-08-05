@@ -1,0 +1,10 @@
+client/build
+client/node_modules
+client/src/config.ts
+
+
+server/node_modules
+server/dist
+server/out
+server/src/config.ts
+server/config.ts
